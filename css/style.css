@@ -36,6 +36,18 @@ footer a{
     font-size: medium;
     font-weight: lighter;
 }
-.card h2 {
+.card h3 {
     background-color: #24a746;
+}
+#categorias img {
+    border-radius: 100%;
+}
+.reptiles h1{
+    font-weight: 300;
+}
+table .stripped tr:nth-child(even){
+    background: none;
+}
+table tr:nth-child(odd){
+    background-color: #d8eddc;
 }
