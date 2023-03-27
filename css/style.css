@@ -51,3 +51,6 @@ table .stripped tr:nth-child(even){
 table tr:nth-child(odd){
     background-color: #d8eddc;
 }
+.list-style-none{
+    list-style: none;
+}
